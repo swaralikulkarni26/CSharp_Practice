@@ -1,0 +1,16 @@
+D:\Assignment\Assignment-3\obj\Debug\Assignment-3.csproj.AssemblyReference.cache
+D:\Assignment\Assignment-3\obj\Debug\Assignment-3.csproj.SuggestedBindingRedirects.cache
+D:\Assignment\Assignment-3\obj\Debug\Assignment-3.csproj.CoreCompileInputs.cache
+D:\Assignment\Assignment-3\bin\Debug\Assignment-3.exe.config
+D:\Assignment\Assignment-3\bin\Debug\Assignment-3.exe
+D:\Assignment\Assignment-3\bin\Debug\Assignment-3.pdb
+D:\Assignment\Assignment-3\obj\Debug\Assignment-3.exe
+D:\Assignment\Assignment-3\obj\Debug\Assignment-3.pdb
+D:\Assignment_Training\Assignment-3\bin\Debug\Assignment-3.exe.config
+D:\Assignment_Training\Assignment-3\bin\Debug\Assignment-3.exe
+D:\Assignment_Training\Assignment-3\bin\Debug\Assignment-3.pdb
+D:\Assignment_Training\Assignment-3\obj\Debug\Assignment-3.csproj.AssemblyReference.cache
+D:\Assignment_Training\Assignment-3\obj\Debug\Assignment-3.csproj.SuggestedBindingRedirects.cache
+D:\Assignment_Training\Assignment-3\obj\Debug\Assignment-3.csproj.CoreCompileInputs.cache
+D:\Assignment_Training\Assignment-3\obj\Debug\Assignment-3.exe
+D:\Assignment_Training\Assignment-3\obj\Debug\Assignment-3.pdb
